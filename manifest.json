@@ -17,9 +17,10 @@
     ],
     "persistent": true
   },
-  "page_action": {
-    "default_popup": "src/page_action/page_action.html",
-    "default_title": "page action demo",
+  
+  "browser_action": {
+    "default_popup": "src/page_action/popup.html",
+    "default_title": "page",
     "default_icon": {
       "16": "icons/icon16.png",
       "32": "icons/icon32.png",

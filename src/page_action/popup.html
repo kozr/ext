@@ -78,17 +78,14 @@
 </style>
 
 <div id="mainPopup">
-	<h1>Night mode!</h1>
+	<h1>To turn off night mode!</h1>
+	<p>Please uninstall for now, sorry for the inconvienence.</p>
+	<p>I'm working on it</p>
 	<label class="switch">
 		<input id='checking' type="checkbox">
-		<span class="slider round"></span>
+		<span id='checking' class="slider round"></span>
 	</label>
 
 </div>
-<script>
-	var State = true;
-	if (localStorage.getItem('NightModeState') == null) {
-		localStorage.setItem('NightModeState') = State;
-	}
-$('#checking').onClick(function(){localStorage.setItem('NightModeState', !State)})
+
 </script>
