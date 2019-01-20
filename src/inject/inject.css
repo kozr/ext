@@ -1,3 +1,4 @@
+
 /* Top Header */
 ._1mj span span {
     color: rgb(200, 200, 200) !important;
@@ -11,49 +12,14 @@
     background-color: #252525 !important;
 }
 
-/* Left Top Header */
-._36ic {
-    background-color: #252525 !important;
-}
-
-._23_m ._1qt3 {
-    background-color: #353535 !important;
-}
-
-._23_m ._1htf {
-    background-color: #353535 !important;
-}
-
-._23_m ._1ht6 {
-    background-color: #353535 !important;
-}
-
-._23_m ._1qt5 {
-    background-color: #353535 !important;
-}
-
-._23_m ._4-0h {
-    background-color: #353535 !important;
-}
-
-._1ht2 ._2il3 {
-    background-color: #353535 !important;
-}
 
 /* Left Chat Buttons */
-._5l-3 {
-    background-color: #252525 !important;
-}
 
 /*  Search Messenger Outer Layer*/
-._58ah {
-
-    background-color: #252525 !important;
-}
 
 /*  Search Messenger Inner Layer*/
 ._5iwm ._58al {
-    background-color: #353535 !important;
+    background-color: rgb(200,200,200) !important;
 }
 
 /*  Search Messenger Text Inner Layer*/
@@ -107,9 +73,20 @@
 ._1t2u {
     background-color: #303030 !important;
 }
-
+._17w2 ._3oh- {
+    color:rgb(200, 200, 200) !important;
+}
+._497p {
+        color:rgb(200, 200, 200) !important;
+    }
 /* Most things chat name white */
 ._1ht6 {
+    color: rgb(200, 200, 200) !important;
+}
+._214v {
+    color: rgb(200, 200, 200) !important;
+}
+._50f8 {
     color: rgb(200, 200, 200) !important;
 }
 
@@ -162,3 +139,16 @@
 ._3q35 {
     color: rgb(200, 200, 200) !important;
 }
+._1ht1 {
+    background-color: #252525;
+}
+a:hover {
+     background-color: #353535 !important; 
+}
+._1ht2 {
+     background-color: #353535 !important; 
+}
+._36ic {
+     background-color: #252525    
+}
+
