@@ -1,8 +1,8 @@
 {
-  "name": "Dark Themed Messenger",
-  "version": "0.0.1",
+  "name": "Dark  Messenger",
+  "version": "0.0.3",
   "manifest_version": 2,
-  "description": "Yay dark themed everything!",
+  "description": "Night mode, night theme, dark mode, dark theme everything!",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon16.png",
@@ -37,7 +37,6 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.google.com/*",
         "https://www.messenger.com/*"
       ],
       "js":[
